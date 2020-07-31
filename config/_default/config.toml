@@ -10,7 +10,7 @@ title = "Li Xiaoxing's Website"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://xiaoxing.netlify.app/"
+baseurl = "https://lisali.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
